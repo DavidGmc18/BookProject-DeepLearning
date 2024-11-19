@@ -1,5 +1,5 @@
 import keras
-from . import Attention, FeedForwardNetwork, Embedding
+import Attention, FeedForwardNetwork, Embedding
 import numpy as np
 import tensorflow as tf
 
